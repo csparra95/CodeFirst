@@ -1,0 +1,12 @@
+C:\Users\parracs\source\repos\HitssDB\HitssDB\bin\Debug\HitssDB.exe.config
+C:\Users\parracs\source\repos\HitssDB\HitssDB\bin\Debug\HitssDB.exe
+C:\Users\parracs\source\repos\HitssDB\HitssDB\bin\Debug\HitssDB.pdb
+C:\Users\parracs\source\repos\HitssDB\HitssDB\bin\Debug\EntityFramework.dll
+C:\Users\parracs\source\repos\HitssDB\HitssDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\parracs\source\repos\HitssDB\HitssDB\bin\Debug\EntityFramework.xml
+C:\Users\parracs\source\repos\HitssDB\HitssDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\parracs\source\repos\HitssDB\HitssDB\obj\Debug\HitssDB.csprojAssemblyReference.cache
+C:\Users\parracs\source\repos\HitssDB\HitssDB\obj\Debug\HitssDB.csproj.CoreCompileInputs.cache
+C:\Users\parracs\source\repos\HitssDB\HitssDB\obj\Debug\HitssDB.csproj.CopyComplete
+C:\Users\parracs\source\repos\HitssDB\HitssDB\obj\Debug\HitssDB.exe
+C:\Users\parracs\source\repos\HitssDB\HitssDB\obj\Debug\HitssDB.pdb
